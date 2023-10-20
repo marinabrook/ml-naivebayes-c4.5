@@ -1,0 +1,1 @@
+{"age": "dewasa", "sex": 1, "cp": 2, "trestbps": 3, "chol": "tinggi", "fbs": 1, "restecg": 3, "thalach": "besar", "exang": 1, "slope": 2, "ca": 1, "thal": 2}
